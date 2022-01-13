@@ -1,0 +1,59 @@
+Fault prediction it is one of the products at the factories, we have a partnership with a bunch of data, streaming and batch, lightmonitoring. In a third party cloud. We send batch data to them. The have a mode; that they have already trained, and it will predict. One of them is a conveyor belt. One of the failure modes they predict. Correlation with the data and everything. 6 models are already up and running. Already put it in some equipment. Sometimes interface crashes. Want to put t into more equipment. Want the interface to be flowing more
+
+AWS core, technical parts. Assist on that component. Maybe create some lambdas to overtake some of the interfaces they already have.
+
+Re engineer some of the current interface
+
+Another is more data analysis. Assess the additional failure modes you can put in place
+
+Existing interface is currently on AWS. With the AWS
+
+The sink will not change but the way we collect the data will change
+
+Some sort of a table, familiar with
+AWS lambda, genesis, S3, database type relational or timeseries, power BI, SQL
+
+Want to use all AWS end to end
+
+2 week sprint where we talk about it.
+
+Renato.lezaro@bhp.com
+
+Making interface, making new interface reliable, create a AWS lambda, create a new model
+
+AWS
+
+Many computing jobs are ephemeral, i.e. lasting a very short time so we wouldn’t need a server to keep it there like that. Wouldn’t rely on any persistent state on the server. Create code then choose an even to decide when that code will run
+
+ 
+
+Lambda inputs a json Object, from that object you can extract things from the dictionary
+
+File upload processing with lambda, s3 is the store for everything, all the data will be coming out of AWS S3. You can make an upload trigger for the lambda, whenever an upload occurs we can automatically invoke the lambda function. So it can react to events that occur. Can be used with kinesis to batch all of the data. Which is what he does with his data
+
+It takes an event dictionary.
+
+Lines 3 goes through to the records, takes the first record, in the s3 section, checks the bucket, then gets the name.
+
+Then also gets the key
+
+Using the name of the bucket and its unique key it extracts the corresponding file from S3
+
+“A bucket data structure is a data structure that uses the key values as the indices of the buckets, and store items of the same key value in the corresponding bucket. Naturally it makes the most sense to use the bucket data structure with integer key values.”
+
+ 
+
+AWS is just Cloud computing. It’s a provider IT services and resources, while amazon handles all of the backend. You access resources like, computing power, storage and databases.
+
+Infrastructure: the basic physical and organizational structures and facilities (e.g. buildings, roads, power supplies) needed for the operation of a society or enterprise.
+
+Execution role is an IM role, something that interacts with lambda
+
+ 
+
+Kinesis analysis the data for you and looks at it. It analyses in real time.
+
+
+QUESTIONS
+
+What lambdas are we creating? In what language should we refresh on, should we just start refreshing on python, if so what area. Is the python being used for data analysis? What area are we using the code for? If kinesis is used for data analysis, then are we using lambda for. 

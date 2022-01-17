@@ -1,0 +1,59 @@
+<!-- index meaning the homepage of websites -->
+
+<!DOCTYPE html>
+<!-- opening tag, </html> being the closing tage -->
+<html lang = "en">
+	<head>
+		<!-- meta elements to define basic things like character sets-->
+		<meta charset="UTF-8">
+		<!-- defines where the screen is? like the content adjusts to the width of the device -->
+		<meta name = "viewport" content = "width=device-width, initial-scale = 1.0">
+		
+		<meta name="keywords" content="HTML, CSS">
+		<!-- the keywords that hel a webpage appear on a search engine -->
+		<meta name="description" content="trial">
+		
+		<title> Hehehe </title>
+		
+		<style>
+			/* inside here you type in style declarations for all images */
+			img {
+				width: 100px;
+				height: 100px;
+				border-radius: 15px; /* rounds out the picture, if you set border radius to something that is half of the width you will get a round picture */
+				float: left; /*makes the image pushed to the left side so the text will be on the right*/
+				margin-right: 10px;
+			}
+
+			/* only applies to username */
+			.username {
+				font-weight: bold;
+			}
+
+			em {
+				color: red;
+				font-style: normal;
+			}
+		</style>
+		<body>
+			<img src="./images/bruh_what.png" alt="descriptive text goes here if the image cannot load e.g. zoomed in face with the neutral emoji">
+			<!-- this piece of text now has a classification rather an just being the same p text as before -->
+			<!-- because of this, the CSS in style can be used to specify only certain p text and not all of them -->
+			<p class = "username">@melk</p>
+			
+			<!-- emphasised without styling defaults to italics only. it should be specified in the CSS style -->
+			<p>bruh what. <em>some emphasised content</em> some <strong>strong</strong> content </p>
+
+			<!-- when you use heading dont pick them based on the size, because the size can always be changed with the CSS -->
+			<h1>heading 1</h1> <!-- its common practcie to only have 1 and only 1 h1 element that tells you what the page is about-->
+			<h2>heading 2</h2> <!-- mainly for subheadings -->
+			<h3>heading 3</h3> <!-- sub sub headings, and so on. it should be divided like this -->
+			<h4>heading 4</h4>
+			<h5>heading 5</h5>
+			<h6>heading 6</h6>
+
+			<!-- we want to display "<HTML>" exactly like it is. if you were to put that it though, html would think it is a tag. use the ampersand to do less than and greater than -->
+			<p>to display non characters &lt;HTML&gt; </p>
+		</body>
+	</head>
+</html>

@@ -1,0 +1,15 @@
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\AwesomeApp\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.deps.json
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\AwesomeApp\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.dll
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\AwesomeApp\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\ref\AwesomeApp.dll
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\AwesomeApp\AwesomeApp\AwesomeApp\bin\Debug\netstandard2.0\AwesomeApp.pdb
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.csproj.AssemblyReference.cache
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.AssemblyInfoInputs.cache
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.AssemblyInfo.cs
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.csproj.CoreCompileInputs.cache
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.dll
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\ref\AwesomeApp.dll
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.pdb

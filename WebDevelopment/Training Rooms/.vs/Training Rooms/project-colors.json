@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7e0cd8de-4b93-4e2a-a612-f840cb3d3f5f": {
+      "ProjectGuid": "7e0cd8de-4b93-4e2a-a612-f840cb3d3f5f",
+      "DisplayName": "Training Rooms",
+      "ColorIndex": 0
+    },
+    "b8e3fd9f-4bd0-4fdd-a729-1108443ff3d0": {
+      "ProjectGuid": "b8e3fd9f-4bd0-4fdd-a729-1108443ff3d0",
+      "DisplayName": "trainingrooms.droid",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "30955d53-07ed-446e-bdbf-a8b2e0310554": {
+      "ProjectGuid": "30955d53-07ed-446e-bdbf-a8b2e0310554",
+      "DisplayName": "trainingroom.droid",
+      "ColorIndex": 2
+    },
+    "1dab805e-7597-436b-bc93-2fcb088bdde3": {
+      "ProjectGuid": "1dab805e-7597-436b-bc93-2fcb088bdde3",
+      "DisplayName": "trainingroom",
+      "ColorIndex": 3
+    },
+    "0263f436-0e3d-4d02-adfc-4935cb6a9020": {
+      "ProjectGuid": "0263f436-0e3d-4d02-adfc-4935cb6a9020",
+      "DisplayName": "trainingroom.droid",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

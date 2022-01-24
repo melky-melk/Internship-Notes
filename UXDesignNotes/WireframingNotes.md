@@ -12,3 +12,4 @@ be in your head as you are making the wireframe. Use the assets that you can
 Draw 5 different versions of the wireframe and how to structure it
 Add a star to the parts you like the most
 Choose which ones you like the most to carry forward
+

@@ -1,0 +1,11 @@
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\Training Rooms\Training Rooms\bin\Debug\Training Rooms.dll
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\Training Rooms\Training Rooms\bin\Debug\Training Rooms.pdb
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\Training Rooms\Training Rooms\bin\Debug\Newtonsoft.Json.dll
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\Training Rooms\Training Rooms\bin\Debug\System.Net.Http.Formatting.dll
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\Training Rooms\Training Rooms\bin\Debug\Newtonsoft.Json.xml
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\Training Rooms\Training Rooms\bin\Debug\System.Net.Http.Formatting.xml
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\Training Rooms\Training Rooms\obj\Debug\Training Rooms.csproj.AssemblyReference.cache
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\Training Rooms\Training Rooms\obj\Debug\Training Rooms.csproj.CoreCompileInputs.cache
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\Training Rooms\Training Rooms\obj\Debug\Training Rooms.csproj.CopyComplete
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\Training Rooms\Training Rooms\obj\Debug\Training Rooms.dll
+C:\LocalFiles\job stuff\InternshipNotes\WebDevelopment\Training Rooms\Training Rooms\obj\Debug\Training Rooms.pdb

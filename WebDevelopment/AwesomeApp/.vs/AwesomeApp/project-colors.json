@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0aae23df-a295-4338-a5a0-75a6d7b57a73": {
+      "ProjectGuid": "0aae23df-a295-4338-a5a0-75a6d7b57a73",
+      "DisplayName": "AwesomeApp.Android",
+      "ColorIndex": 0
+    },
+    "f3d7eaf9-9c2d-4dab-ac10-3c43cde53588": {
+      "ProjectGuid": "f3d7eaf9-9c2d-4dab-ac10-3c43cde53588",
+      "DisplayName": "AwesomeApp",
+      "ColorIndex": 1
+    },
+    "2928a956-3f85-41f8-978a-af80eb5c48d1": {
+      "ProjectGuid": "2928a956-3f85-41f8-978a-af80eb5c48d1",
+      "DisplayName": "AwesomeApp.iOS",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

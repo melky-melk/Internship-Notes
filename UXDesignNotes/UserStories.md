@@ -103,3 +103,10 @@ Any UX issues that frustrate the user and block the user from getting what they 
 - Process things that stop the user getting from point a to point b
 - Support
 
+
+android:layout_width ="10dp"
+android:layout_height ="0dp"
+layout_rowWeight ="1"
+layout_columnWeight ="1"
+android:textSize ="25sp"
+android:onClick ="ButtonClick"

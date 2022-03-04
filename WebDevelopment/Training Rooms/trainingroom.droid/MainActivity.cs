@@ -1,25 +1,28 @@
-﻿using Android.App;
+﻿using System;
+using Android.App;
 using Android.OS;
-using Android.Runtime;
-using AndroidX.AppCompat.App;
+using AndroidX.AppCompat.Widget;
+using Training_Rooms;
 
 namespace trainingroom.droid
 {
-    [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
-    public class MainActivity : AppCompatActivity
+    [Activity(Label = "trainingrooms.droid", Theme = "@style/AppTheme.NoActionBar", MainLauncher = true)]
+    [Obsolete]
+    public class MainActivity : ListActivity
     {
+
         protected override void OnCreate(Bundle savedInstanceState)
         {
             base.OnCreate(savedInstanceState);
-            Xamarin.Essentials.Platform.Init(this, savedInstanceState);
-            // Set our view from the "main" layout resource
-            SetContentView(Resource.Layout.activity_main);
-        }
-        public override void OnRequestPermissionsResult(int requestCode, string[] permissions, [GeneratedEnum] Android.Content.PM.Permission[] grantResults)
-        {
-            Xamarin.Essentials.Platform.OnRequestPermissionsResult(requestCode, permissions, grantResults);
+            SetContentView(Resource.Layout.content_main);
 
-            base.OnRequestPermissionsResult(requestCode, permissions, grantResults);
+            var repo = new RoomRepository();
+            var rooms = repo.GetRooms();
+
+            //gets all the rooms from the room repository class and displays it onto the screen according to the layout
+            var adapter = new Android.Widget.ArrayAdapter<TrainingRoom>(this, Resource.Layout.RoomListItem, rooms.ToArray());
+
+            this.ListAdapter = adapter;
         }
     }
 }
